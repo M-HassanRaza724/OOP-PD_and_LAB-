@@ -1,0 +1,15 @@
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\bin\Debug\net8.0\CardGame.exe
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\bin\Debug\net8.0\CardGame.deps.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\bin\Debug\net8.0\CardGame.runtimeconfig.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\bin\Debug\net8.0\CardGame.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\bin\Debug\net8.0\CardGame.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfoInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfo.cs
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.csproj.CoreCompileInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.sourcelink.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\refint\CardGame.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\CardGame.genruntimeconfig.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\PD8\CardGame\obj\Debug\net8.0\ref\CardGame.dll
