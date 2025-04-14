@@ -1,0 +1,14 @@
+F:\CS\2nd semester\OOPL\week2\loop\bin\Debug\net8.0\loop.exe
+F:\CS\2nd semester\OOPL\week2\loop\bin\Debug\net8.0\loop.deps.json
+F:\CS\2nd semester\OOPL\week2\loop\bin\Debug\net8.0\loop.runtimeconfig.json
+F:\CS\2nd semester\OOPL\week2\loop\bin\Debug\net8.0\loop.dll
+F:\CS\2nd semester\OOPL\week2\loop\bin\Debug\net8.0\loop.pdb
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.AssemblyInfoInputs.cache
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.AssemblyInfo.cs
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.dll
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\refint\loop.dll
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.pdb
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\loop.genruntimeconfig.cache
+F:\CS\2nd semester\OOPL\week2\loop\obj\Debug\net8.0\ref\loop.dll

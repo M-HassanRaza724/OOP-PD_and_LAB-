@@ -1,0 +1,14 @@
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\bin\Debug\net8.0\OceanNavigation.exe
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\bin\Debug\net8.0\OceanNavigation.deps.json
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\bin\Debug\net8.0\OceanNavigation.runtimeconfig.json
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\bin\Debug\net8.0\OceanNavigation.dll
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\bin\Debug\net8.0\OceanNavigation.pdb
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.AssemblyInfoInputs.cache
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.AssemblyInfo.cs
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.dll
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\refint\OceanNavigation.dll
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.pdb
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\OceanNavigation.genruntimeconfig.cache
+C:\Users\Hassan\source\repos\OceanNavigation\OceanNavigation\obj\Debug\net8.0\ref\OceanNavigation.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA6E1F1-0EFC-49F0-9C25-02BEC2FF2D23}|Challenge4.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA6E1F1-0EFC-49F0-9C25-02BEC2FF2D23}|Challenge4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:37:53.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

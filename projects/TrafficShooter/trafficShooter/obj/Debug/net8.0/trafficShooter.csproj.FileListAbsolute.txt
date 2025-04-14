@@ -1,0 +1,17 @@
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\bin\Debug\net8.0\trafficShooter.exe
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\bin\Debug\net8.0\trafficShooter.deps.json
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\bin\Debug\net8.0\trafficShooter.runtimeconfig.json
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\bin\Debug\net8.0\trafficShooter.dll
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\bin\Debug\net8.0\trafficShooter.pdb
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\bin\Debug\net8.0\EZInput.dll
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.csproj.AssemblyReference.cache
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.AssemblyInfoInputs.cache
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.AssemblyInfo.cs
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficS.A1C768F7.Up2Date
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.dll
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\refint\trafficShooter.dll
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.pdb
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\trafficShooter.genruntimeconfig.cache
+F:\CS\2nd semester\Projects\TrafficShooter\trafficShooter\obj\Debug\net8.0\ref\trafficShooter.dll

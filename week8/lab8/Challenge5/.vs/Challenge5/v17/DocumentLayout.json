@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\ui\\audiui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:ui\\audiui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\ui\\carui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:ui\\carui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\ui\\bmwui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:ui\\bmwui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\bl\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:bl\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\bl\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:bl\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\bl\\gli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:bl\\gli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\dl\\audicrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:dl\\audicrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\dl\\bmwcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:dl\\bmwcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\dl\\carcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:dl\\carcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week8\\lab8\\challenge5\\bl\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976AE12F-B4B3-40BC-BF92-675F3ADA0E34}|Challenge5.csproj|solutionrelative:bl\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMWUI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\UI\\BMWUI.cs",
+              "RelativeDocumentMoniker": "UI\\BMWUI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\UI\\BMWUI.cs",
+              "RelativeToolTip": "UI\\BMWUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:27:40.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudiUI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\UI\\AudiUI.cs",
+              "RelativeDocumentMoniker": "UI\\AudiUI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\UI\\AudiUI.cs",
+              "RelativeToolTip": "UI\\AudiUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:27:32.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarUI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\UI\\CarUI.cs",
+              "RelativeDocumentMoniker": "UI\\CarUI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\UI\\CarUI.cs",
+              "RelativeToolTip": "UI\\CarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:27:26.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\DL\\CarCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\CarCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\DL\\CarCRUD.cs",
+              "RelativeToolTip": "DL\\CarCRUD.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:15:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BMWCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\DL\\BMWCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\BMWCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\DL\\BMWCRUD.cs",
+              "RelativeToolTip": "DL\\BMWCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:15:24.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudiCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\DL\\AudiCRUD.cs",
+              "RelativeDocumentMoniker": "DL\\AudiCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\DL\\AudiCRUD.cs",
+              "RelativeToolTip": "DL\\AudiCRUD.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:15:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GLI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\GLI.cs",
+              "RelativeDocumentMoniker": "BL\\GLI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\GLI.cs",
+              "RelativeToolTip": "BL\\GLI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:42:05.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\Audi.cs",
+              "RelativeDocumentMoniker": "BL\\Audi.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\Audi.cs",
+              "RelativeToolTip": "BL\\Audi.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:41:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\BMW.cs",
+              "RelativeDocumentMoniker": "BL\\BMW.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\BMW.cs",
+              "RelativeToolTip": "BL\\BMW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:41:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\Car.cs",
+              "RelativeDocumentMoniker": "BL\\Car.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\BL\\Car.cs",
+              "RelativeToolTip": "BL\\Car.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA8wC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:35:36.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week8\\lab8\\Challenge5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:35:03.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

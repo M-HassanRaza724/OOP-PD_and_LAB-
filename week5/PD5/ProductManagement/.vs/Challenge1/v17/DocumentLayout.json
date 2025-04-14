@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\dl\\customercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\dl\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\dl\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\dl\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\dl\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\dl\\musercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\dl\\musercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\ui\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\ui\\muserui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\ui\\muserui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\bl\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\bl\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\Challenge1.csproj|solutionrelative:challenge1\\bl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\ProductManagement.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week5\\pd5\\challenge1\\challenge1\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A558A76-6BB5-4627-AE95-2DDC7D2CC771}|Challenge1\\ProductManagement.csproj|solutionrelative:challenge1\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductManagement",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\ProductManagement.csproj",
+              "RelativeDocumentMoniker": "Challenge1\\ProductManagement.csproj",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\ProductManagement.csproj",
+              "RelativeToolTip": "Challenge1\\ProductManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:47:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MUserCRUD.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\MUserCRUD.cs",
+              "RelativeDocumentMoniker": "Challenge1\\DL\\MUserCRUD.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\MUserCRUD.cs",
+              "RelativeToolTip": "Challenge1\\DL\\MUserCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:19:00.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "Challenge1\\DL\\ProductCRUD.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\ProductCRUD.cs",
+              "RelativeToolTip": "Challenge1\\DL\\ProductCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:21:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\AdminUI.cs",
+              "RelativeDocumentMoniker": "Challenge1\\UI\\AdminUI.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\AdminUI.cs",
+              "RelativeToolTip": "Challenge1\\UI\\AdminUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:50:48.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "Challenge1\\UI\\CustomerUI.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\CustomerUI.cs",
+              "RelativeToolTip": "Challenge1\\UI\\CustomerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:32:23.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MUserUI.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\MUserUI.cs",
+              "RelativeDocumentMoniker": "Challenge1\\UI\\MUserUI.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\MUserUI.cs",
+              "RelativeToolTip": "Challenge1\\UI\\MUserUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:50:48.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\ProductUI.cs",
+              "RelativeDocumentMoniker": "Challenge1\\UI\\ProductUI.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\UI\\ProductUI.cs",
+              "RelativeToolTip": "Challenge1\\UI\\ProductUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:28:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge1\\Program.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\Program.cs",
+              "RelativeToolTip": "Challenge1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:13:48.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MUser.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\BL\\MUser.cs",
+              "RelativeDocumentMoniker": "Challenge1\\BL\\MUser.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\BL\\MUser.cs",
+              "RelativeToolTip": "Challenge1\\BL\\MUser.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:24:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Challenge1\\DL\\DatabaseHelper.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\DatabaseHelper.cs",
+              "RelativeToolTip": "Challenge1\\DL\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:50:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCRUD.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\CustomerCRUD.cs",
+              "RelativeDocumentMoniker": "Challenge1\\DL\\CustomerCRUD.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\DL\\CustomerCRUD.cs",
+              "RelativeToolTip": "Challenge1\\DL\\CustomerCRUD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:21:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\BL\\Product.cs",
+              "RelativeDocumentMoniker": "Challenge1\\BL\\Product.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\BL\\Product.cs",
+              "RelativeToolTip": "Challenge1\\BL\\Product.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:23:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\BL\\Customer.cs",
+              "RelativeDocumentMoniker": "Challenge1\\BL\\Customer.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week5\\PD5\\Challenge1\\Challenge1\\BL\\Customer.cs",
+              "RelativeToolTip": "Challenge1\\BL\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:24:05.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

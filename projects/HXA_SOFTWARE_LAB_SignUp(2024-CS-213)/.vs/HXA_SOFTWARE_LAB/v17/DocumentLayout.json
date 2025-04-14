@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|e:\\cs\\2nd semester\\oopl\\assignments\\projects\\hxa_software_lab_signup(2024-cs-213)\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|solutionrelative:muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|e:\\cs\\2nd semester\\oopl\\assignments\\projects\\hxa_software_lab_signup(2024-cs-213)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|e:\\cs\\2nd semester\\oopl\\assignments\\projects\\hxa_software_lab_signup(2024-cs-213)\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38134B66-CDF8-4447-8D6D-59C9CBFAB91A}|HXA_SOFTWARE_LAB.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MUser.cs",
+              "DocumentMoniker": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\MUser.cs",
+              "RelativeDocumentMoniker": "MUser.cs",
+              "ToolTip": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\MUser.cs",
+              "RelativeToolTip": "MUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:53:03.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:45:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CS\\2nd semester\\OOPl\\assignments\\projects\\HXA_SOFTWARE_LAB_SignUp(2024-CS-213)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:40:50.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

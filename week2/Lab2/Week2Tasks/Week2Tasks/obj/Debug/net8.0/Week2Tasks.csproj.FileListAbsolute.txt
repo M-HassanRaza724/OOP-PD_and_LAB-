@@ -1,0 +1,14 @@
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\bin\Debug\net8.0\Week2Tasks.exe
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\bin\Debug\net8.0\Week2Tasks.deps.json
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\bin\Debug\net8.0\Week2Tasks.runtimeconfig.json
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\bin\Debug\net8.0\Week2Tasks.dll
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\bin\Debug\net8.0\Week2Tasks.pdb
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.AssemblyInfoInputs.cache
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.AssemblyInfo.cs
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.dll
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\refint\Week2Tasks.dll
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.pdb
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\Week2Tasks.genruntimeconfig.cache
+F:\CS\2nd semester\OOPL\week2\Week2Tasks\Week2Tasks\obj\Debug\net8.0\ref\Week2Tasks.dll

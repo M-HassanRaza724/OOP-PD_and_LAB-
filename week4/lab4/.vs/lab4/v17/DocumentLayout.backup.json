@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1190DBC5-4B20-4A65-9BE7-53C1C39B3583}|lab4.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week4\\lab4\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1190DBC5-4B20-4A65-9BE7-53C1C39B3583}|lab4.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1190DBC5-4B20-4A65-9BE7-53C1C39B3583}|lab4.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1190DBC5-4B20-4A65-9BE7-53C1C39B3583}|lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1190DBC5-4B20-4A65-9BE7-53C1C39B3583}|lab4.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week4\\lab4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1190DBC5-4B20-4A65-9BE7-53C1C39B3583}|lab4.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:49:42.776Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswKQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:21:57.85Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\lab4\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:23:53.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

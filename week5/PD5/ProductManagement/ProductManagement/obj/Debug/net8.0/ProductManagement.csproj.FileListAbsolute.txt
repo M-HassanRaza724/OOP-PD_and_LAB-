@@ -1,0 +1,6 @@
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week5\PD5\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.csproj.AssemblyReference.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week5\PD5\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week5\PD5\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.AssemblyInfoInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week5\PD5\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.AssemblyInfo.cs
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week5\PD5\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.csproj.CoreCompileInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week5\PD5\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.sourcelink.json

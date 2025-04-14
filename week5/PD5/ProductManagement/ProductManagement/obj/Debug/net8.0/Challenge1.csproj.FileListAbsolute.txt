@@ -1,0 +1,15 @@
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.exe
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.deps.json
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.runtimeconfig.json
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.dll
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.pdb
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.AssemblyInfoInputs.cache
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.AssemblyInfo.cs
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.csproj.CoreCompileInputs.cache
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.sourcelink.json
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.dll
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\refint\Challenge1.dll
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.pdb
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.genruntimeconfig.cache
+E:\CS\2nd semester\OOPl\assignments\week5\PD5\Challenge1\Challenge1\obj\Debug\net8.0\ref\Challenge1.dll

@@ -1,0 +1,15 @@
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\bin\Debug\net8.0\Challenge3.exe
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\bin\Debug\net8.0\Challenge3.deps.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\bin\Debug\net8.0\Challenge3.runtimeconfig.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\bin\Debug\net8.0\Challenge3.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\bin\Debug\net8.0\Challenge3.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.AssemblyInfoInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.AssemblyInfo.cs
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.csproj.CoreCompileInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.sourcelink.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\refint\Challenge3.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\Challenge3.genruntimeconfig.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week8\lab8\Challenge3\obj\Debug\net8.0\ref\Challenge3.dll

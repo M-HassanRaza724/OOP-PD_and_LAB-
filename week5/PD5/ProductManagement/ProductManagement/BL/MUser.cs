@@ -6,7 +6,6 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using MySqlX.XDevAPI;
 using System.Xml.Linq;
-using week2;
 
 namespace ProductManagement
 {

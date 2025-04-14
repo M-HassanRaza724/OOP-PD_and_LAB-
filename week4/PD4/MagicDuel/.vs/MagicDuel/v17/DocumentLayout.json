@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4A257-D96C-4C21-847C-3D57D5F8FD49}|MagicDuel\\MagicDuel.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week4\\pd4\\magicduel\\magicduel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4A257-D96C-4C21-847C-3D57D5F8FD49}|MagicDuel\\MagicDuel.csproj|solutionrelative:magicduel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4A257-D96C-4C21-847C-3D57D5F8FD49}|MagicDuel\\MagicDuel.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week4\\pd4\\magicduel\\magicduel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4A257-D96C-4C21-847C-3D57D5F8FD49}|MagicDuel\\MagicDuel.csproj|solutionrelative:magicduel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4A257-D96C-4C21-847C-3D57D5F8FD49}|MagicDuel\\MagicDuel.csproj|f:\\cs\\2nd semester\\oopl\\assignments\\week4\\pd4\\magicduel\\magicduel\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4A257-D96C-4C21-847C-3D57D5F8FD49}|MagicDuel\\MagicDuel.csproj|solutionrelative:magicduel\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\MagicDuel\\Stats.cs",
+              "RelativeDocumentMoniker": "MagicDuel\\Stats.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\MagicDuel\\Stats.cs",
+              "RelativeToolTip": "MagicDuel\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:56:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\MagicDuel\\Player.cs",
+              "RelativeDocumentMoniker": "MagicDuel\\Player.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\MagicDuel\\Player.cs",
+              "RelativeToolTip": "MagicDuel\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:56:09.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\MagicDuel\\Program.cs",
+              "RelativeDocumentMoniker": "MagicDuel\\Program.cs",
+              "ToolTip": "F:\\CS\\2nd semester\\OOPL\\assignments\\week4\\PD4\\MagicDuel\\MagicDuel\\Program.cs",
+              "RelativeToolTip": "MagicDuel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:55:49.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

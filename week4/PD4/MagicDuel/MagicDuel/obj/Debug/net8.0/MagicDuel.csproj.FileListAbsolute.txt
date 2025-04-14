@@ -1,0 +1,15 @@
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\bin\Debug\net8.0\MagicDuel.exe
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\bin\Debug\net8.0\MagicDuel.deps.json
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\bin\Debug\net8.0\MagicDuel.runtimeconfig.json
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\bin\Debug\net8.0\MagicDuel.dll
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\bin\Debug\net8.0\MagicDuel.pdb
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.AssemblyInfoInputs.cache
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.AssemblyInfo.cs
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.sourcelink.json
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.dll
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\refint\MagicDuel.dll
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.pdb
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\MagicDuel.genruntimeconfig.cache
+F:\CS\2nd semester\OOPL\assignments\week4\PD4\MagicDuel\MagicDuel\obj\Debug\net8.0\ref\MagicDuel.dll

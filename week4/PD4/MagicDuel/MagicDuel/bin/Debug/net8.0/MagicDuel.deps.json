@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MagicDuel/1.0.0": {
+        "runtime": {
+          "MagicDuel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MagicDuel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

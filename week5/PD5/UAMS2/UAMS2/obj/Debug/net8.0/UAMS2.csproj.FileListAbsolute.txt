@@ -1,0 +1,15 @@
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\bin\Debug\net8.0\UAMS2.exe
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\bin\Debug\net8.0\UAMS2.deps.json
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\bin\Debug\net8.0\UAMS2.runtimeconfig.json
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\bin\Debug\net8.0\UAMS2.dll
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\bin\Debug\net8.0\UAMS2.pdb
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.AssemblyInfoInputs.cache
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.AssemblyInfo.cs
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.csproj.CoreCompileInputs.cache
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.sourcelink.json
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.dll
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\refint\UAMS2.dll
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.pdb
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\UAMS2.genruntimeconfig.cache
+E:\CS\2nd semester\OOPl\assignments\week4\PD4\UAMS2\UAMS2\obj\Debug\net8.0\ref\UAMS2.dll

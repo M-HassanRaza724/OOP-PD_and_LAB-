@@ -1,0 +1,15 @@
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\bin\Debug\net8.0\Lab3.exe
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\bin\Debug\net8.0\Lab3.deps.json
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\bin\Debug\net8.0\Lab3.runtimeconfig.json
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\bin\Debug\net8.0\Lab3.dll
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\bin\Debug\net8.0\Lab3.pdb
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.sourcelink.json
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.dll
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\refint\Lab3.dll
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.pdb
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+F:\CS\2nd semester\OOPL\assignments\week3\ConsoleApp1\obj\Debug\net8.0\ref\Lab3.dll
