@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\winformsapp1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\winformsapp1\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\winformsapp1\\coursecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAC2842-6109-4260-B0EA-CE7D7C116B39}|WinFormsApp1.csproj|solutionrelative:coursecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:11:20.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\CourseCRUD.cs",
+              "RelativeDocumentMoniker": "CourseCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\CourseCRUD.cs",
+              "RelativeToolTip": "CourseCRUD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:24:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:24:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:23:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:23:12.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
