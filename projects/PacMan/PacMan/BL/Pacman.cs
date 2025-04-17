@@ -10,12 +10,14 @@ namespace PacMan.BL
     {
         int X;
         int Y;
+        int Score;
 
 
         public Pacman(int x, int y)
         {
             X = x;
             Y = y;
+            Score = 0;
         }
         public Pacman() 
         {
@@ -33,79 +35,76 @@ namespace PacMan.BL
             Y = y;
             return true;
         }
-        public void movePacManUp(char[,] maze)
+        public int GetScore()
         {
+            return Score;
+        }
+        public void movePacManUp()
+        {
+            char[,] maze = Maze.GetMaze();
             if (maze[X - 1, Y] == ' ' || maze[X - 1, Y] == '.')
             {
-                maze[X, Y] = ' ';
-                Console.SetCursorPosition(Y, X);
-                Console.Write(" ");
+                Maze.SetMaze(X, Y, ' ');
                 X = X - 1;
                 if (maze[X, Y] == '.')
                 {
-                    calculateScore();
+                    CalculateScore();
                 }
-                Console.SetCursorPosition(Y, X);
-                maze[X, Y] = 'P';
-                Console.Write("P");
+                Maze.SetMaze(X, Y, 'P');
 
             }
         }
-        public void movePacManDown(char[,] maze, ref int X, ref int Y)
+        public void movePacManDown( )
         {
+            char[,] maze = Maze.GetMaze();
             if (maze[X + 1, Y] == ' ' || maze[X + 1, Y] == '.')
             {
-                maze[X, Y] = ' ';
-                Console.SetCursorPosition(Y, X);
-                Console.Write(" ");
+                Maze.SetMaze(X, Y, ' ');
                 X = X + 1;
-                Console.SetCursorPosition(Y, X);
                 if (maze[X, Y] == '.')
                 {
-                    calculateScore();
+                    CalculateScore();
                 }
-                maze[X, Y] = 'P';
-                Console.Write("P");
+                Maze.SetMaze(X, Y, 'P');
 
             }
         }
 
-        public void movePacManLeft(char[,] maze, ref int X, ref int Y)
+        public void movePacManLeft( )
         {
+            char[,] maze = Maze.GetMaze();
             if (maze[X, Y - 1] == ' ' || maze[X, Y - 1] == '.')
             {
-                maze[X, Y] = ' ';
-                Console.SetCursorPosition(Y, X);
-                Console.Write(" ");
+                Maze.SetMaze(X, Y, ' ');
                 Y = Y - 1;
                 if (maze[X, Y] == '.')
                 {
-                    calculateScore();
+                    CalculateScore();
                 }
-                Console.SetCursorPosition(Y, X);
-                maze[X, Y] = 'P';
-                Console.Write("P");
+                Maze.SetMaze(X, Y, 'P');
 
             }
         }
 
-        public void movePacManRight(char[,] maze, ref int X, ref int Y)
+        public void movePacManRight(  )
         {
+            char[,] maze = Maze.GetMaze();
             if (maze[X, Y + 1] == ' ' || maze[X, Y + 1] == '.')
             {
-                maze[X, Y] = ' ';
-                Console.SetCursorPosition(Y, X);
-                Console.Write(" ");
+                Maze.SetMaze(X, Y, ' ');
                 Y = Y + 1;
                 if (maze[X, Y] == '.')
                 {
-                    calculateScore();
+                    CalculateScore();
                 }
-                Console.SetCursorPosition(Y, X);
-                maze[X, Y] = 'P';
-                Console.Write("P");
+                Maze.SetMaze(X, Y, 'P');
 
             }
+        }
+
+        public void CalculateScore()
+        {
+            Score = Score + 1;
         }
     }
 }
