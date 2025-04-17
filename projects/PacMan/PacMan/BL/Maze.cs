@@ -14,10 +14,14 @@ namespace PacMan.BL
         {
             return maze;
         }
-        //public static void SetMaze(char[,] newMaze)
-        //{
-        //    maze = newMaze;
-        //}   
+        public static void SetMaze(char[,] newMaze)
+        {
+            maze = newMaze;
+        }
+        public static void SetMaze(int row, int column , char c)
+        {
+            maze[row, column] = c;
+        }
 
     }
 }

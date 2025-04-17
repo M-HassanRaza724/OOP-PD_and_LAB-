@@ -58,16 +58,23 @@
     <Compile Include="BL\Ghost.cs" />
     <Compile Include="BL\Maze.cs" />
     <Compile Include="BL\Pacman.cs" />
+    <Compile Include="BL\SmartGhost.cs" />
+    <Compile Include="DL\GhostCRUD.cs" />
+    <Compile Include="DL\MazeCRUD.cs" />
+    <Compile Include="DL\PacmanCRUD.cs" />
+    <Compile Include="DL\RandomGhostCRUD.cs" />
+    <Compile Include="DL\SmartGhostCRUD.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BL\RandomGhost.cs" />
+    <Compile Include="UI\GhostUI.cs" />
+    <Compile Include="UI\MazeUI.cs" />
+    <Compile Include="UI\PacManUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DL\" />
-    <Folder Include="UI\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

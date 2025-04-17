@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\projects\\pacman\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\projects\\pacman\\pacman\\ui\\ghostui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\ui\\ghostui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\bl\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\bl\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\projects\\pacman\\pacman\\bl\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\ui\\pacmanui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\ui\\pacmanui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\bl\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\bl\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\bl\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\bl\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\dl\\randomghostcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\dl\\randomghostcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\bl\\smartghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\bl\\smartghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\bl\\randomghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\bl\\randomghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\dl\\mazecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\dl\\mazecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\ui\\mazeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\ui\\mazeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\dl\\ghostcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\dl\\ghostcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\dl\\pacmancrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\dl\\pacmancrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\pacman\\dl\\smartghostcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\dl\\smartghostcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,22 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pacman.cs",
-              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Pacman.cs",
-              "RelativeDocumentMoniker": "PacMan\\BL\\Pacman.cs",
-              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Pacman.cs",
-              "RelativeToolTip": "PacMan\\BL\\Pacman.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T16:11:09.318Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -46,23 +76,178 @@
               "RelativeDocumentMoniker": "PacMan\\Program.cs",
               "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\Program.cs*",
               "RelativeToolTip": "PacMan\\Program.cs*",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAAAHMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwJAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T06:06:11.246Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ghost.cs",
               "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Ghost.cs",
               "RelativeDocumentMoniker": "PacMan\\BL\\Ghost.cs",
               "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Ghost.cs",
               "RelativeToolTip": "PacMan\\BL\\Ghost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAA8wB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T16:11:24.782Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pacman.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Pacman.cs",
+              "RelativeDocumentMoniker": "PacMan\\BL\\Pacman.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Pacman.cs",
+              "RelativeToolTip": "PacMan\\BL\\Pacman.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:11:09.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmartGhost.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\SmartGhost.cs",
+              "RelativeDocumentMoniker": "PacMan\\BL\\SmartGhost.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\SmartGhost.cs",
+              "RelativeToolTip": "PacMan\\BL\\SmartGhost.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:24:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Maze.cs",
+              "RelativeDocumentMoniker": "PacMan\\BL\\Maze.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\Maze.cs",
+              "RelativeToolTip": "PacMan\\BL\\Maze.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:36:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandomGhostCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\RandomGhostCRUD.cs",
+              "RelativeDocumentMoniker": "PacMan\\DL\\RandomGhostCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\RandomGhostCRUD.cs",
+              "RelativeToolTip": "PacMan\\DL\\RandomGhostCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:49:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GhostUI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\UI\\GhostUI.cs",
+              "RelativeDocumentMoniker": "PacMan\\UI\\GhostUI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\UI\\GhostUI.cs",
+              "RelativeToolTip": "PacMan\\UI\\GhostUI.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:37:36.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacManUI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\UI\\PacManUI.cs",
+              "RelativeDocumentMoniker": "PacMan\\UI\\PacManUI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\UI\\PacManUI.cs",
+              "RelativeToolTip": "PacMan\\UI\\PacManUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:56:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandomGhost.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\RandomGhost.cs",
+              "RelativeDocumentMoniker": "PacMan\\BL\\RandomGhost.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\BL\\RandomGhost.cs",
+              "RelativeToolTip": "PacMan\\BL\\RandomGhost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:23:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MazeCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\MazeCRUD.cs",
+              "RelativeDocumentMoniker": "PacMan\\DL\\MazeCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\MazeCRUD.cs",
+              "RelativeToolTip": "PacMan\\DL\\MazeCRUD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:52:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MazeUI.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\UI\\MazeUI.cs",
+              "RelativeDocumentMoniker": "PacMan\\UI\\MazeUI.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\UI\\MazeUI.cs",
+              "RelativeToolTip": "PacMan\\UI\\MazeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:07:29.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GhostCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\GhostCRUD.cs",
+              "RelativeDocumentMoniker": "PacMan\\DL\\GhostCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\GhostCRUD.cs",
+              "RelativeToolTip": "PacMan\\DL\\GhostCRUD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:14:15.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PacmanCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\PacmanCRUD.cs",
+              "RelativeDocumentMoniker": "PacMan\\DL\\PacmanCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\PacmanCRUD.cs",
+              "RelativeToolTip": "PacMan\\DL\\PacmanCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:03:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmartGhostCRUD.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\SmartGhostCRUD.cs",
+              "RelativeDocumentMoniker": "PacMan\\DL\\SmartGhostCRUD.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\projects\\PacMan\\PacMan\\DL\\SmartGhostCRUD.cs",
+              "RelativeToolTip": "PacMan\\DL\\SmartGhostCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:17:54.436Z"
             }
           ]
         }
