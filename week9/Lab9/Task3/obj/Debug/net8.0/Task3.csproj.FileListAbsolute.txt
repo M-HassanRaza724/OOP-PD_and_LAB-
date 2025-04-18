@@ -1,0 +1,15 @@
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\bin\Debug\net8.0\Task3.exe
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\bin\Debug\net8.0\Task3.deps.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\bin\Debug\net8.0\Task3.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\bin\Debug\net8.0\Task3.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\refint\Task3.dll
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week9\Lab9\Task3\obj\Debug\net8.0\ref\Task3.dll
