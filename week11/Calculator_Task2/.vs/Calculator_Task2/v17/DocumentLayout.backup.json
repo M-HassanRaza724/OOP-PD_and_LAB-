@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week11\\Calculator_Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76CD4-9953-4188-A696-AF40BD485A8D}|Calculator_Task2.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week11\\calculator_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C76CD4-9953-4188-A696-AF40BD485A8D}|Calculator_Task2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C76CD4-9953-4188-A696-AF40BD485A8D}|Calculator_Task2.csproj|e:\\cs\\2ndsemester\\oopl\\assignments\\oop(pd_and_lab)\\week11\\calculator_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26C76CD4-9953-4188-A696-AF40BD485A8D}|Calculator_Task2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week11\\Calculator_Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week11\\Calculator_Task2\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAALgAAAAAAAAAAAD4v70AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:47:57.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week11\\Calculator_Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\OOPl\\assignments\\OOP(PD_and_LAB)\\week11\\Calculator_Task2\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:47:56.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

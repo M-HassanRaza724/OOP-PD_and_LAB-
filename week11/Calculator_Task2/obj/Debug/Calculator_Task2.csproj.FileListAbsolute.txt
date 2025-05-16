@@ -1,0 +1,10 @@
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\bin\Debug\Calculator_Task2.exe.config
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\bin\Debug\Calculator_Task2.exe
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\bin\Debug\Calculator_Task2.pdb
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.csproj.AssemblyReference.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.Calculator.resources
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.Properties.Resources.resources
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.csproj.GenerateResource.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.csproj.CoreCompileInputs.cache
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.exe
+E:\CS\2ndSemester\OOPl\assignments\OOP(PD_and_LAB)\week11\Calculator_Task2\obj\Debug\Calculator_Task2.pdb
